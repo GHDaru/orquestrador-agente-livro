@@ -321,3 +321,12 @@ while True:
     print(f"Gemini: {texto_resposta}")
     print(f"[histórico: {len(historico)} mensagens]\n")
 ```
+
+
+---
+
+<div class="nav-rodape" style="display: flex; justify-content: space-between; padding: 20px 0; margin-top: 40px; border-top: 1px solid #444;">
+  <div><a href="cap01-chamada-simples">← Cap 1 — Primeira chamada</a></div>
+  <div><a href="index">Sumário</a></div>
+  <div><a href="cap03-primeira-tool">Cap 3 — Primeira tool →</a></div>
+</div>

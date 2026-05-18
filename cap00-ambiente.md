@@ -507,3 +507,12 @@ Reinicie o VS Code após instalar.
 No **Capítulo 1** você vai criar o primeiro notebook
 e fazer o Gemini responder em 8 linhas de Python —
 célula por célula, vendo o resultado de cada uma.
+
+
+---
+
+<div class="nav-rodape" style="display: flex; justify-content: space-between; padding: 20px 0; margin-top: 40px; border-top: 1px solid #444;">
+  <div><a href="introducao">← Introdução</a></div>
+  <div><a href="index">Sumário</a></div>
+  <div><a href="cap01-chamada-simples">Cap 1 — Primeira chamada →</a></div>
+</div>

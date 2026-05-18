@@ -265,3 +265,12 @@ response2 = client.models.generate_content(
 
 print(response2.text)
 ```
+
+
+---
+
+<div class="nav-rodape" style="display: flex; justify-content: space-between; padding: 20px 0; margin-top: 40px; border-top: 1px solid #444;">
+  <div><a href="cap00-ambiente">← Cap 0 — Ambiente</a></div>
+  <div><a href="index">Sumário</a></div>
+  <div><a href="cap02-conversa-memoria">Cap 2 — Memória →</a></div>
+</div>

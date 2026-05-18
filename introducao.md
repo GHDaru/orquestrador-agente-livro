@@ -218,3 +218,12 @@ e depois tentar uma segunda pergunta.
 
 O que acontece nessa segunda pergunta
 é o ponto de partida de tudo.
+
+
+---
+
+<div class="nav-rodape" style="display: flex; justify-content: space-between; padding: 20px 0; margin-top: 40px; border-top: 1px solid #444;">
+  <div><a href="prefacio">← Prefácio</a></div>
+  <div><a href="index">Sumário</a></div>
+  <div><a href="cap00-ambiente">Cap 0 — Ambiente →</a></div>
+</div>

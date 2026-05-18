@@ -516,3 +516,12 @@ if __name__ == "__main__":
         prompt = "Liste os arquivos desta pasta."
     rodar(prompt)
 ```
+
+
+---
+
+<div class="nav-rodape" style="display: flex; justify-content: space-between; padding: 20px 0; margin-top: 40px; border-top: 1px solid #444;">
+  <div><a href="cap03-primeira-tool">← Cap 3 — Primeira tool</a></div>
+  <div><a href="index">Sumário</a></div>
+  <div><a href="cap05-tipos-enum">Cap 5 — Tipos →</a></div>
+</div>

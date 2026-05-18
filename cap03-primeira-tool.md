@@ -557,3 +557,12 @@ for part in response.candidates[0].content.parts:
 
         print(f"Gemini: {response2.text}")
 ```
+
+
+---
+
+<div class="nav-rodape" style="display: flex; justify-content: space-between; padding: 20px 0; margin-top: 40px; border-top: 1px solid #444;">
+  <div><a href="cap02-conversa-memoria">← Cap 2 — Memória</a></div>
+  <div><a href="index">Sumário</a></div>
+  <div><a href="cap04-loop-automatico">Cap 4 — Loop →</a></div>
+</div>

@@ -1,21 +1,19 @@
 title: "Construindo um Orquestrador Agentico"
 description: "Do loop mínimo ao chat inteligente — uma jornada em código onde cada conceito nasce de uma dor real."
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 
 author:
-  name: "Gilsiley Henrique Darú"
+  name: ""
 
 # URL base do site (ajuste com seu usuário do GitHub)
 baseurl: "/orquestrador-agente-livro"
 url: "https://ghdaru.github.io"
 
-# Configurações de markdown
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# Arquivos a ignorar
 exclude:
   - "*.zip"
   - "README_DEV.md"
