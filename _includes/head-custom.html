@@ -87,7 +87,7 @@
 
       var button = createButton();
       button.addEventListener('click', function () {
-        copyText(code.textContent.replace(/\n$/, '')).then(function () {
+        copyText(code.textContent.replace(/\n+$/, '')).then(function () {
           button.title = 'Copiado!';
           setTimeout(function () {
             button.title = 'Copiar código';
