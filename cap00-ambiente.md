@@ -130,7 +130,7 @@ cd C:\projetos
 mkdir agente
 cd agente
 uv init .
-Remove-Item hello.py
+Remove-Item main.py
 ```
 
 ### Adicionando as dependências
