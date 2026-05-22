@@ -52,6 +52,7 @@
       document.body.appendChild(textarea);
       textarea.select();
       try {
+        // Fallback legado para navegadores sem Clipboard API.
         var successful = document.execCommand('copy');
         document.body.removeChild(textarea);
         successful ? resolve() : reject();
@@ -86,7 +87,7 @@
 
       var button = createButton();
       button.addEventListener('click', function () {
-        copyText(code.innerText.replace(/\n$/, '')).then(function () {
+        copyText(code.textContent.replace(/\n$/, '')).then(function () {
           button.title = 'Copiado!';
           setTimeout(function () {
             button.title = 'Copiar código';
